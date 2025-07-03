@@ -132,7 +132,7 @@ main{
     justify-content:space between;
     max-width:75rem;
     positin:relative;
-    background-image:url('/asset/bgimage.jpg');
+    background-image:url('asset/bgimage.jpg');
     background-size:cover;
     background-position:center;
     height:100vh;
